@@ -2,6 +2,8 @@
 """
     Task: Genearte a simple design of experiment to target the 50:50 splitting ratio at 1550 nm
     
+    2x2 Adiabatic coupler: identical width (500nm) of the two output waveguide is used.
+    
     Parameters to create the device variants:
         1. Gap - distance between the two tapers in the mode evolution region 
         2. Coupling_length - length of mode evolution region
