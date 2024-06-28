@@ -68,4 +68,5 @@ for iVariant in range(0, len(Gap)):
     g.dmove([Shift_x_gccali,Shift_y_gccali+Shift_y_block*iVariant])
 
 c.write_gds("demo.gds") 
+c.show()
 
